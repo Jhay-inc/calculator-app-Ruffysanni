@@ -59,7 +59,7 @@
             this.btn1.TabIndex = 0;
             this.btn1.Text = "1";
             this.btn1.UseVisualStyleBackColor = true;
-            this.btn1.Click += new System.EventHandler(this.button_click);
+            //this.btn1.Click += new System.EventHandler(this.button_click);
             // 
             // btn2
             // 
